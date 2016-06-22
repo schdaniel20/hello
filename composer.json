@@ -1,0 +1,5 @@
+{
+    "require": {
+        "hello/hello": "dev-master"
+    }
+}
