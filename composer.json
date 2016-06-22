@@ -1,5 +1,11 @@
 {
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/schdaniel20/hello"
+        }
+    ],
     "require": {
-        "hello/hello": "dev-master"
+        "hello/Test": "dev-master"
     }
 }
