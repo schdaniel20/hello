@@ -1,12 +1,7 @@
 {
-    "name" : "Hello",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/schdaniel20/hello"
-        }
-    ],
-    "require": {
-        "Test/hello": "dev-master"
+    "name": "Hello",
+    "version": "dev-master",
+    "autoload": {
+        "psr-4": {"Cylex\\Hello\\": "Test"}
     }
 }
