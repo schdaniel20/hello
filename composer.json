@@ -5,8 +5,5 @@
             "type": "vcs",
             "url": "https://github.com/schdaniel20/hello"
         }
-    ],
-    "require": {
-        "hello/Test": "dev-master"
-    }
+    ]
 }
